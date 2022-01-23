@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Plantae](https://github.com/Mr-Hypocrite/plantae)
 
-- 🌱 I’m currently learning **Reat js, Firebase**
+- 🌱 I’m currently learning **REACT js, Firebase**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
